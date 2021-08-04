@@ -1,0 +1,23 @@
+h1 {
+    font-family:monospace;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+
+#d2{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px 25px;
+    margin: 10% 30% 10% 30%;
+    border-style: solid;
+    border-width: 5px 20px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: rgb(113, 172, 187);
+    cursor: pointer;
+    transition-duration: 0.4s;
+   
+}
